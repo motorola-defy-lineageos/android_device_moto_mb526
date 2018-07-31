@@ -19,4 +19,4 @@ $(call inherit-product, device/moto/mb52x/full_mb52x.mk)
 $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
 PRODUCT_RELEASE_NAME := MOTOROLA JORDAN
-PRODUCT_NAME := cm_mb52x
+PRODUCT_NAME := lineage_mb52x
